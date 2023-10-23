@@ -1,0 +1,1912 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 100,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754957",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363954668462647,
+                    48.21496198796804
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Landespolizeidirektion Wien",
+                "ADRESSE": "01., Schottenring 7-9",
+                "SE_SDO_ROWID": 3754957,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754959",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.367286808477413,
+                    48.20399472771076
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Goethegasse",
+                "ADRESSE": "01., Goethegasse 1",
+                "SE_SDO_ROWID": 3754959,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754960",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36882179906471,
+                    48.20025688795485
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Kärntnertorpassage",
+                "ADRESSE": "01., Kärntnertorpassage ",
+                "SE_SDO_ROWID": 3754960,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754961",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.378200188344348,
+                    48.21052889719936
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Laurenzerberg",
+                "ADRESSE": "01., Laurenzerberg 2",
+                "SE_SDO_ROWID": 3754961,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754962",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37204359927753,
+                    48.209656657363276
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Brandstätte",
+                "ADRESSE": "01., Brandstätte 4",
+                "SE_SDO_ROWID": 3754962,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754963",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.409511688905663,
+                    48.2229075675577
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Handelskai-Wasserpolizei",
+                "ADRESSE": "02., Handelskai 267",
+                "SE_SDO_ROWID": 3754963,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754964",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37643063911259,
+                    48.219615917211826
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Leopoldsgasse",
+                "ADRESSE": "02., Leopoldsgasse 18",
+                "SE_SDO_ROWID": 3754964,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754965",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.405357488817838,
+                    48.21763227759744
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Ausstellungsstraße",
+                "ADRESSE": "02., Ausstellungsstraße 44",
+                "SE_SDO_ROWID": 3754965,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754966",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.385154849353146,
+                    48.21357343781158
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Tempelgasse",
+                "ADRESSE": "02., Tempelgasse 5a",
+                "SE_SDO_ROWID": 3754966,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754968",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.404323708441318,
+                    48.19627759759279
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Fiakerplatz",
+                "ADRESSE": "03., Fiakerplatz 4",
+                "SE_SDO_ROWID": 3754968,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754969",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.393672538762992,
+                    48.19657214726594
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Juchgasse",
+                "ADRESSE": "03., Juchgasse 19",
+                "SE_SDO_ROWID": 3754969,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754970",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37116444850802,
+                    48.19498059716296
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Taubstummengasse",
+                "ADRESSE": "04., Taubstummengasse 11",
+                "SE_SDO_ROWID": 3754970,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754972",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35771954826103,
+                    48.18814466754462
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Viktor-Christ-Gasse",
+                "ADRESSE": "05., Viktor-Christ-Gasse 19",
+                "SE_SDO_ROWID": 3754972,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754973",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.357138229087074,
+                    48.19267385762541
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Schönbrunner Straße",
+                "ADRESSE": "05., Schönbrunner Straße 34",
+                "SE_SDO_ROWID": 3754973,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754974",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.353014979409316,
+                    48.19707201784997
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Kopernikusgasse",
+                "ADRESSE": "06., Kopernikusgasse 1",
+                "SE_SDO_ROWID": 3754974,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754975",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344177299242503,
+                    48.19440958765177
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Stumpergasse",
+                "ADRESSE": "06., Stumpergasse 42",
+                "SE_SDO_ROWID": 3754975,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754976",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.346333169378664,
+                    48.20287391767848
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Kandlgasse",
+                "ADRESSE": "07., Kandlgasse 4",
+                "SE_SDO_ROWID": 3754976,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754977",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35510075950733,
+                    48.20193479719873
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Stiftgasse",
+                "ADRESSE": "07., Stiftgasse 2a",
+                "SE_SDO_ROWID": 3754977,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754978",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.338975608565992,
+                    48.20162866762727
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Urban-Loritz-Platz",
+                "ADRESSE": "07., Urban-Loritz-Platz 7",
+                "SE_SDO_ROWID": 3754978,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754980",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34796154859323,
+                    48.21046445771937
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Fuhrmannsgasse",
+                "ADRESSE": "08., Fuhrmannsgasse 5",
+                "SE_SDO_ROWID": 3754980,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754981",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34067929863153,
+                    48.213596327178614
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Hernalser Gürtel",
+                "ADRESSE": "08., Hernalser Gürtel 6-12",
+                "SE_SDO_ROWID": 3754981,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754982",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35655224952729,
+                    48.22365567725206
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Boltzmanngasse",
+                "ADRESSE": "09., Boltzmanngasse 20",
+                "SE_SDO_ROWID": 3754982,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754983",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.355371469602463,
+                    48.21593151739694
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Otto-Wagner-Platz",
+                "ADRESSE": "09., Otto-Wagner-Platz 4",
+                "SE_SDO_ROWID": 3754983,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754984",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369855218421243,
+                    48.17903353763566
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Van-der-Nüll-Gasse",
+                "ADRESSE": "10., Van-der-Nüll-Gasse 11",
+                "SE_SDO_ROWID": 3754984,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754985",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382872828621387,
+                    48.150506647275165
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Ada-Christen-Gasse",
+                "ADRESSE": "10., Ada-Christen-Gasse 2",
+                "SE_SDO_ROWID": 3754985,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754986",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38277256919225,
+                    48.16379544757489
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Favoritenstraße",
+                "ADRESSE": "10., Favoritenstraße 211",
+                "SE_SDO_ROWID": 3754986,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754987",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363260399294795,
+                    48.1698074177855
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Zohmanngasse",
+                "ADRESSE": "10., Zohmanngasse 10",
+                "SE_SDO_ROWID": 3754987,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754988",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.377012378826013,
+                    48.179431897626124
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Keplergasse",
+                "ADRESSE": "10., Keplergasse 10",
+                "SE_SDO_ROWID": 3754988,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754989",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37732903856846,
+                    48.18397156780645
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Hauptbahnhof",
+                "ADRESSE": "10., Am Hauptbahnhof 2",
+                "SE_SDO_ROWID": 3754989,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754991",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.413200119295528,
+                    48.17517331770386
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Sedlitzkygasse",
+                "ADRESSE": "11., Sedlitzkygasse 27",
+                "SE_SDO_ROWID": 3754991,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754992",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.464277388202902,
+                    48.159900647804314
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Kaiser-Ebersdorfer-Straße",
+                "ADRESSE": "11., Kaiser-Ebersdorfer-Straße 290",
+                "SE_SDO_ROWID": 3754992,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754993",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.424492008753734,
+                    48.165870647792374
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Simmeringer Hauptstraße",
+                "ADRESSE": "11., Simmeringer Hauptstraße 164",
+                "SE_SDO_ROWID": 3754993,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46983349873246,
+                    48.15273664714803
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Sängergasse",
+                "ADRESSE": "11., Sängergasse 11",
+                "SE_SDO_ROWID": 3754994,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754996",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.328802029508573,
+                    48.182571707681944
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Hufelandgasse",
+                "ADRESSE": "12., Hufelandgasse 4",
+                "SE_SDO_ROWID": 3754996,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754997",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.338503829084754,
+                    48.184441557905465
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Arndtstraße",
+                "ADRESSE": "12., Arndtstraße 40",
+                "SE_SDO_ROWID": 3754997,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754998",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.326062939252687,
+                    48.16091769773333
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Am Schöpfwerk",
+                "ADRESSE": "12., Am Schöpfwerk 29",
+                "SE_SDO_ROWID": 3754998,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754999",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32452224877871,
+                    48.17426990791271
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Hohenbergstraße",
+                "ADRESSE": "12., Hohenbergstraße 1",
+                "SE_SDO_ROWID": 3754999,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755000",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27731749939966,
+                    48.18951855767121
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Preindlgasse",
+                "ADRESSE": "13., Preindlgasse 21",
+                "SE_SDO_ROWID": 3755000,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755002",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33213799890661,
+                    48.19785577780875
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Tannengasse",
+                "ADRESSE": "15., Tannengasse 8-10",
+                "SE_SDO_ROWID": 3755002,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755003",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.302721809057868,
+                    48.198443268085036
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Leyserstraße",
+                "ADRESSE": "14., Leyserstraße 2",
+                "SE_SDO_ROWID": 3755003,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755004",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.332836158991487,
+                    48.185303467698205
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Storchengasse",
+                "ADRESSE": "15., Storchengasse 1",
+                "SE_SDO_ROWID": 3755004,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755005",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3377623092288,
+                    48.196104607650845
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Westbahnhof",
+                "ADRESSE": "15., Europaplatz 2",
+                "SE_SDO_ROWID": 3755005,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755006",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.320526058338007,
+                    48.198422817826575
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Wurmsergasse",
+                "ADRESSE": "15., Wurmsergasse 35",
+                "SE_SDO_ROWID": 3755006,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755008",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.318603558766142,
+                    48.21379841756748
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Wattgasse",
+                "ADRESSE": "16., Wattgasse 15",
+                "SE_SDO_ROWID": 3755008,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755009",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33588421885651,
+                    48.210090617332426
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Brunnengasse",
+                "ADRESSE": "16., Brunnengasse 40",
+                "SE_SDO_ROWID": 3755009,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755010",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.333463288825698,
+                    48.206553097332
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Koppstraße",
+                "ADRESSE": "16., Koppstraße 9-11",
+                "SE_SDO_ROWID": 3755010,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755011",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.306493888848376,
+                    48.21405027787482
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Maroltingergasse",
+                "ADRESSE": "16., Maroltingergasse 79",
+                "SE_SDO_ROWID": 3755011,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755012",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.331255088403605,
+                    48.219493847472485
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Rötzergasse",
+                "ADRESSE": "17., Rötzergasse 24",
+                "SE_SDO_ROWID": 3755012,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755013",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.317223319136197,
+                    48.22454772749175
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Halirschgasse",
+                "ADRESSE": "17., Halirschgasse 16",
+                "SE_SDO_ROWID": 3755013,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755014",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.334299338669517,
+                    48.22747366742107
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Schulgasse",
+                "ADRESSE": "18., Schulgasse 88",
+                "SE_SDO_ROWID": 3755014,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755015",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.340987228430638,
+                    48.221146227569946
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Martinstraße",
+                "ADRESSE": "18., Martinstraße 40",
+                "SE_SDO_ROWID": 3755015,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755017",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35586560860891,
+                    48.24749372719059
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Hohe Warte",
+                "ADRESSE": "19., Hohe Warte 32",
+                "SE_SDO_ROWID": 3755017,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755018",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.343321179339775,
+                    48.245233647377255
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Billrothstraße",
+                "ADRESSE": "19., Billrothstraße 79a",
+                "SE_SDO_ROWID": 3755018,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755019",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32806095860892,
+                    48.24212865780758
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Krottenbachstraße",
+                "ADRESSE": "19., Krottenbachstraße 106a",
+                "SE_SDO_ROWID": 3755019,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755020",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.366911038678392,
+                    48.25998298741278
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Nußdorfer Platz",
+                "ADRESSE": "19., Nußdorfer Platz 1-2",
+                "SE_SDO_ROWID": 3755020,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755022",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36943066909438,
+                    48.23397824736868
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Pappenheimgasse",
+                "ADRESSE": "20., Pappenheimgasse 33",
+                "SE_SDO_ROWID": 3755022,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755023",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.379816729516612,
+                    48.243537747130745
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Vorgartenstraße",
+                "ADRESSE": "20., Vorgartenstraße 27-29",
+                "SE_SDO_ROWID": 3755023,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755025",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.397781818704484,
+                    48.260268947184116
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Hermann-Bahr-Straße",
+                "ADRESSE": "21., Hermann-Bahr-Straße 3",
+                "SE_SDO_ROWID": 3755025,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755026",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.405275399811405,
+                    48.27311229771221
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Trillergasse",
+                "ADRESSE": "21., Trillergasse 6",
+                "SE_SDO_ROWID": 3755026,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755027",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.390880189927596,
+                    48.28930194793478
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Ziegelofenweg",
+                "ADRESSE": "21., Ziegelofenweg 25",
+                "SE_SDO_ROWID": 3755027,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755028",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44694531972525,
+                    48.273864727356944
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Kürschnergasse",
+                "ADRESSE": "21., Kürschnergasse 18c",
+                "SE_SDO_ROWID": 3755028,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755029",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.420016488667255,
+                    48.25327815791199
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Donaufelder Straße",
+                "ADRESSE": "21., Donaufelder Straße 99",
+                "SE_SDO_ROWID": 3755029,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755030",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41711711911052,
+                    48.29367495729962
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Kummergasse",
+                "ADRESSE": "21., Kummergasse 7",
+                "SE_SDO_ROWID": 3755030,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755032",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.436007639324977,
+                    48.24360724744405
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Wagramer Straße",
+                "ADRESSE": "22., Wagramer Straße 89",
+                "SE_SDO_ROWID": 3755032,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755033",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.476700119505637,
+                    48.21769997700274
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Langobardenstraße",
+                "ADRESSE": "22., Langobardenstraße 174",
+                "SE_SDO_ROWID": 3755033,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755034",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.447030678692425,
+                    48.22763251787891
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Lange Allee",
+                "ADRESSE": "22., Lange Allee 89",
+                "SE_SDO_ROWID": 3755034,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755035",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.45520647933802,
+                    48.26069014783139
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Puchgasse",
+                "ADRESSE": "22., Puchgasse 1",
+                "SE_SDO_ROWID": 3755035,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755036",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.414909398474755,
+                    48.22960978768923
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Rudolf-Nurejew-Promenade",
+                "ADRESSE": "22., Rudolf-Nurejew-Promenade 1",
+                "SE_SDO_ROWID": 3755036,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755037",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50304469902818,
+                    48.22440918769193
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Sonnenallee",
+                "ADRESSE": "22., Sonnenallee 33",
+                "SE_SDO_ROWID": 3755037,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755039",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.281248219311063,
+                    48.135395028028846
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Lehmanngasse",
+                "ADRESSE": "23., Lehmanngasse 3a",
+                "SE_SDO_ROWID": 3755039,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755040",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31343535936019,
+                    48.149979057462275
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Anton-Baumgartner-Straße",
+                "ADRESSE": "23., Anton-Baumgartner-Straße 125",
+                "SE_SDO_ROWID": 3755040,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755042",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.259925619616862,
+                    48.20171986764142
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Linzer Straße",
+                "ADRESSE": "14., Linzer Straße 395",
+                "SE_SDO_ROWID": 3755042,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755044",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.359924399677713,
+                    48.22848507798344
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Julius-Tandler-Platz",
+                "ADRESSE": "09., Althanstraße 10",
+                "SE_SDO_ROWID": 3755044,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755045",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.219251759066314,
+                    48.207687357515745
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Albert-Schweitzer-Gasse",
+                "ADRESSE": "14., Albert-Schweitzer-Gasse 6",
+                "SE_SDO_ROWID": 3755045,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755046",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36817345963077,
+                    48.21733843737657
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Deutschmeisterplatz",
+                "ADRESSE": "01., Deutschmeisterplatz 3",
+                "SE_SDO_ROWID": 3755046,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755047",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.284065949209587,
+                    48.17643310761603
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Lainzer Straße",
+                "ADRESSE": "13., Lainzer Straße 147-149",
+                "SE_SDO_ROWID": 3755047,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755048",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.302407798364,
+                    48.1859652975134
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Am Platz",
+                "ADRESSE": "13., Am Platz (Schönbrunn) ",
+                "SE_SDO_ROWID": 3755048,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755049",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.391371188589677,
+                    48.218831867745955
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Praterstern",
+                "ADRESSE": "02., Praterstern ",
+                "SE_SDO_ROWID": 3755049,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755050",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363786819382366,
+                    48.20838926747065
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Ballhausplatz",
+                "ADRESSE": "01., Ballhausplatz 2",
+                "SE_SDO_ROWID": 3755050,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755051",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3647233296045,
+                    48.20897672727407
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Minoritenplatz",
+                "ADRESSE": "01., Minoritenplatz 9",
+                "SE_SDO_ROWID": 3755051,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.364221698895392,
+                    48.207763657494716
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Hofburg (Leopoldinischer Trakt)",
+                "ADRESSE": "01., Hofburg ",
+                "SE_SDO_ROWID": 3755052,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755053",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.476242188790927,
+                    48.2371215577454
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Quadenstraße",
+                "ADRESSE": "22., Quadenstraße 27",
+                "SE_SDO_ROWID": 3755053,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.386184819587385,
+                    48.207015967638604
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Wien Mitte",
+                "ADRESSE": "03., Invalidenstraße 2",
+                "SE_SDO_ROWID": 3755054,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755055",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.362270478310844,
+                    48.159496287995765
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Sibeliusstraße",
+                "ADRESSE": "10., Sibeliusstraße 8",
+                "SE_SDO_ROWID": 3755055,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755056",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382861938777697,
+                    48.233745217257365
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Dresdner-Straße",
+                "ADRESSE": "20., Dresdner Straße 84",
+                "SE_SDO_ROWID": 3755056,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755041",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33415043833533,
+                    48.14999006721098
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Polizeiinspektion Wien-Purkytgasse",
+                "ADRESSE": "23., Purkytgasse 1",
+                "SE_SDO_ROWID": 3755041,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754958",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368231659285186,
+                    48.21724836767625
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-1",
+                "ADRESSE": "01., Deutschmeisterplatz 3",
+                "SE_SDO_ROWID": 3754958,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754967",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.393672538762992,
+                    48.19657214726594
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-3",
+                "ADRESSE": "03., Juchgasse 19",
+                "SE_SDO_ROWID": 3754967,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35771954826103,
+                    48.18814466754462
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-4,5,6",
+                "ADRESSE": "05., Viktor-Christ-Gasse 19",
+                "SE_SDO_ROWID": 3754971,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754979",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34796154859323,
+                    48.21046445771937
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-7,8,9",
+                "ADRESSE": "08., Fuhrmannsgasse 5",
+                "SE_SDO_ROWID": 3754979,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754990",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41317136866731,
+                    48.175372917473105
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-11",
+                "ADRESSE": "11., Enkplatz 3",
+                "SE_SDO_ROWID": 3754990,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3754995",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32453293858216,
+                    48.17426134739573
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-12,13",
+                "ADRESSE": "12., Hohenbergstraße 1",
+                "SE_SDO_ROWID": 3754995,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755001",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33234510861206,
+                    48.19750625728405
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-14,15",
+                "ADRESSE": "15., Tannengasse 8-10",
+                "SE_SDO_ROWID": 3755001,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755007",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.318603558766142,
+                    48.21379841756748
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-16,17",
+                "ADRESSE": "16., Wattgasse 15",
+                "SE_SDO_ROWID": 3755007,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755016",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35586560860891,
+                    48.24749372719059
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-18,19",
+                "ADRESSE": "19., Hohe Warte 32",
+                "SE_SDO_ROWID": 3755016,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755021",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36943066909438,
+                    48.23397824736868
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-2,20",
+                "ADRESSE": "20., Pappenheimgasse 33",
+                "SE_SDO_ROWID": 3755021,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755024",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.397781818704484,
+                    48.260268947184116
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-21",
+                "ADRESSE": "21., Hermann-Bahr-Straße 3",
+                "SE_SDO_ROWID": 3755024,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755031",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.436007639324977,
+                    48.24360724744405
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-22",
+                "ADRESSE": "22., Wagramer Straße 89",
+                "SE_SDO_ROWID": 3755031,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755038",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.281248219311063,
+                    48.135395028028846
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-23",
+                "ADRESSE": "23., Lehmanngasse 3a",
+                "SE_SDO_ROWID": 3755038,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "POLIZEIOGD.3755043",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369855218421243,
+                    48.17903353763566
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Stadtpolizeikommando Wien-10",
+                "ADRESSE": "10., Van-der-Nüll-Gasse 11",
+                "SE_SDO_ROWID": 3755043,
+                "SE_ANNO_CAD_DATA": null,
+                "WEBLINK1": "https://www.polizei.gv.at/"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

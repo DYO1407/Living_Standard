@@ -1,0 +1,3172 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 158,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757541",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.403446169768696,
+                    48.219132340492834
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Fachhochschule des bfi Wien",
+                "BEZEICHNUNG": "Hauptgebäude",
+                "ADRESSE": "2., Wohlmutstraße 22",
+                "WEBLINK1": "http://www.fh-vie.ac.at",
+                "SE_SDO_ROWID": 3757541,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757542",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42690776175912,
+                    48.26950266109793
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Fachhochschule des bfi Wien",
+                "BEZEICHNUNG": "ENERGYbase",
+                "ADRESSE": "21., Giefinggasse 6",
+                "WEBLINK1": "http://www.fh-vie.ac.at",
+                "SE_SDO_ROWID": 3757542,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757543",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34920088325281,
+                    48.226579405396876
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "FHWien-Studiengänge der Wirtschaftskammer Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "18., Währinger Gürtel 97",
+                "WEBLINK1": "http://www.fh-wien.ac.at",
+                "SE_SDO_ROWID": 3757543,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757544",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352469076065344,
+                    48.24270066272184
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Lauder Business School",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "19., Hofzeile 18-20",
+                "WEBLINK1": "http://www.lbs.ac.at",
+                "SE_SDO_ROWID": 3757544,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.355890590434296,
+                    48.20014346161998
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "FH Technikum Wien",
+                "BEZEICHNUNG": "Geschäftsführung",
+                "ADRESSE": "6., Mariahilfer Straße 37-39",
+                "WEBLINK1": "http://www.technikum-wien.at",
+                "SE_SDO_ROWID": 3757545,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.377855588715683,
+                    48.23944294372122
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "FH Technikum Wien",
+                "BEZEICHNUNG": "Standort Höchstädtplatz",
+                "ADRESSE": "20., Höchstädtplatz 5",
+                "WEBLINK1": "http://www.technikum-wien.at",
+                "SE_SDO_ROWID": 3757546,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42690776175912,
+                    48.26950266109793
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "FH Technikum Wien",
+                "BEZEICHNUNG": "ENERGYbase",
+                "ADRESSE": "21., Giefinggasse 6",
+                "WEBLINK1": "http://www.technikum-wien.at",
+                "SE_SDO_ROWID": 3757547,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757548",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382287536621917,
+                    48.157732932471525
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "FH Campus Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "10., Favoritenstraße 226",
+                "WEBLINK1": "http://www.fh-campuswien.ac.at",
+                "SE_SDO_ROWID": 3757548,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.331682731958992,
+                    48.2373738509467
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Zentrum für Internationale Beziehungen",
+                "ADRESSE": "19., Peter Jordan Straße 82a",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757650,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757652",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33030460481283,
+                    48.237613448476885
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Baracken",
+                "ADRESSE": "19., Borkowskigasse 4",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757652,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757702",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363974185646168,
+                    48.21620844192769
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Kolingasse",
+                "ADRESSE": "1., Kolingasse 14-16",
+                "WEBLINK1": "http://www.univie.ac.at/",
+                "SE_SDO_ROWID": 3757702,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.402402363082736,
+                    48.19121123015869
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Universitätsbiologiegebäude",
+                "ADRESSE": "3., Schlachthausgasse 43",
+                "WEBLINK1": "http://lifesciences.univie.ac.at/de/",
+                "SE_SDO_ROWID": 3757703,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757433",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.359580318592336,
+                    48.23938797685519
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "19., Heiligenstädterstrasse 46-48",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757433,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757434",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.348993464445506,
+                    48.23351485665033
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "19., Franz Klein Gasse 1",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757434,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757435",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369904056154443,
+                    48.19898232027155
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Hauptgebäude",
+                "ADRESSE": "4., Karlsplatz 13",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757435,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757436",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36899239214573,
+                    48.19810883770963
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Paniglgasse 16",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757436,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757437",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368016028740513,
+                    48.198707162793404
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Goldenes Lamm",
+                "ADRESSE": "4., Wiedner Hauptstr. 7",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757437,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757438",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.367960114554663,
+                    48.19856413189032
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Ödenburg",
+                "ADRESSE": "4., Wiedner Hauptstr. 9",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757438,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757439",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368806013917297,
+                    48.19884353023658
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "4., Resselgasse 3",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757439,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757440",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368487666009134,
+                    48.19893973097212
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "4., Resselgasse 5",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757440,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757441",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363539624868373,
+                    48.201231485531935
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Chemie Hochhaus",
+                "ADRESSE": "6., Getreidemarkt 9",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757441,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757442",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.362337263036466,
+                    48.20103137871191
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "6., Gumpendorfer Straße 1a",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757442,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757443",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36932020933822,
+                    48.19622972350806
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Neues EI",
+                "ADRESSE": "4., Gußhausstr. 27-29",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757443,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757444",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37049350755911,
+                    48.19674536586309
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Altes EI",
+                "ADRESSE": "4., Gußhausstr. 25",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757444,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757445",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.367576288031866,
+                    48.198712904681194
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Freihaus",
+                "ADRESSE": "4., Wiedner Hauptstr. 8",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757445,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757446",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.367847244714284,
+                    48.19942245040253
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Hauptbibliothek",
+                "ADRESSE": "4., Wiedner Hauptstr. 6",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757446,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757447",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.367213187213153,
+                    48.1997708325804
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Treitlstraße 3",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757447,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757448",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.366934720491063,
+                    48.199537083458395
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Operngasse 11",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757448,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757449",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.371462358277288,
+                    48.19764185984134
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Argentinierstr. 8",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757449,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757450",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.370117043126232,
+                    48.197214529071495
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Karlsgasse 11",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757450,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757451",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.370014574679477,
+                    48.19705970476205
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Karlsgasse 13",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757451,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757452",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368934159975908,
+                    48.19644510546017
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Gußhausstr. 28",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757452,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757453",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368426914069932,
+                    48.194526316487625
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Floragasse 7",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757453,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757454",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36542985217594,
+                    48.18943638481741
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Wiedner Hauptstr. 76",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757454,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757455",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369676244141086,
+                    48.19516700595537
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Favoritenstr. 9",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757455,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757456",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369676244141086,
+                    48.19516700595537
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Favoritenstr. 11",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757456,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369686493907043,
+                    48.19459031138785
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Favoritenstr. 16",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757457,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757458",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.371164067984758,
+                    48.19497882830844
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Taubstummengasse 11",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757458,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757459",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39176459154902,
+                    48.19120872321734
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Funke-Halle",
+                "ADRESSE": "3., Adolf Blamauergasse 1-3",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757459,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757460",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39873902808013,
+                    48.181225717327905
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Arsenal Objekt 214",
+                "ADRESSE": "3., Franz Grill Str. 3",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757460,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757461",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39195407820274,
+                    48.234267569241474
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Labor Fertigungstechnik",
+                "ADRESSE": "20., Engerthstr. 119",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757461,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757462",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.373502800378976,
+                    48.191480286674945
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Theresianumgasse 27",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757462,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757463",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.377386502496275,
+                    48.19248310842304
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "4., Theresianumgasse 7",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757463,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757464",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.412225959454926,
+                    48.19677505948586
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Atominstitut",
+                "ADRESSE": "2., Stadionallee 2",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757464,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363087975801736,
+                    48.20017145216964
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Technische Universität Wien",
+                "BEZEICHNUNG": "Lehartrakt",
+                "ADRESSE": "6., Lehargasse 4",
+                "WEBLINK1": "http://www.tuwien.ac.at",
+                "SE_SDO_ROWID": 3757549,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36198382649927,
+                    48.19980649057155
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Akademie der bildenden Künste Wien",
+                "BEZEICHNUNG": "Atelierhaus",
+                "ADRESSE": "6., Lehargasse 8",
+                "WEBLINK1": "http://www.akbild.ac.at/",
+                "SE_SDO_ROWID": 3757550,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.348993464454523,
+                    48.233514892623056
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Franz-Klein-Gasse 1",
+                "ADRESSE": "19., Franz-Klein-Gasse 1",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757578,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757579",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.334176001347654,
+                    48.23143187528517
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Sternwarte",
+                "ADRESSE": "18., Türkenschanzstraße 17",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757579,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.362425510123394,
+                    48.21495856531439
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Maria-Theresien-Straße 3",
+                "ADRESSE": "9., Maria-Theresien-Straße 3",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757580,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.383916615694723,
+                    48.19506843019806
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Biodiversitätszentrum/Botanischer Garten",
+                "ADRESSE": "3., Rennweg 14",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757581,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.402160788418495,
+                    48.18819530399219
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Campus-Vienna-Biocenter",
+                "ADRESSE": "3., Campus-Vienna-Biocenter 5",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757582,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36302915985916,
+                    48.2108561717449
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Schenkenstraße 8-10",
+                "ADRESSE": "1., Schenkenstraße 8-10",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757583,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.357809215004256,
+                    48.218443136911674
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Währinger Straße 17",
+                "ADRESSE": "9., Währinger Straße 17",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757584,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757585",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.400592539643803,
+                    48.188566715998924
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Molekulare Biologie",
+                "ADRESSE": "3., Dr.-Bohr-Gasse 9",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757585,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757586",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3561879798124,
+                    48.2200220979557
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Währinger Straße 29",
+                "ADRESSE": "9., Währinger Straße 29",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757586,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757587",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35454876660795,
+                    48.22015825949871
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Sensengasse 3a",
+                "ADRESSE": "9., Sensengasse 3a",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757587,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757588",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35293189132775,
+                    48.220315798224036
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Spitalgasse 14",
+                "ADRESSE": "9., Spitalgasse 14",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757588,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36721744536508,
+                    48.2192577407872
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Fakultät für Mathematik",
+                "ADRESSE": "9., Oskar-Morgenstern-Platz 1",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757589,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363465406233058,
+                    48.219257165189525
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Porzellangasse 4",
+                "ADRESSE": "9., Porzellangasse 4",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757590,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.359129934720887,
+                    48.23249119363979
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Universitätsstandort UZA II",
+                "ADRESSE": "9., Josef-Holaubek-Platz 2",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757591,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36086069578922,
+                    48.21301871722258
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Hauptgebäude",
+                "ADRESSE": "1., Universitätsring 1",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757712,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757713",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35755179898434,
+                    48.21332631965628
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Psychologie",
+                "ADRESSE": "1., Liebiggasse 5",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757713,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757715",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.357618768865173,
+                    48.213552576367064
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Neues Institutsgebäude",
+                "ADRESSE": "1., Universitätsstraße 7",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757715,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757716",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.365010077340354,
+                    48.21406150198658
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Juridicum",
+                "ADRESSE": "1., Schottenbastei 10-16",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757716,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757717",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.367678153777828,
+                    48.20337020144949
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Hanuschgasse 3",
+                "ADRESSE": "1., Hanuschgasse 3",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757717,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757718",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.365912380925163,
+                    48.20792605064238
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Theaterwissenschaft Hofburg",
+                "ADRESSE": "Hofburg, Batthyanystiege",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757718,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757719",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.378851203661082,
+                    48.20926344904463
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Universitätsarchiv Postgasse",
+                "ADRESSE": "1., Postgasse 9",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757719,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757720",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.356629240040704,
+                    48.22100263872954
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Fakultät für Chemie",
+                "ADRESSE": "9., Währinger Straße 42",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757720,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.355713585647965,
+                    48.221744017815794
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Fakultät für Physik",
+                "ADRESSE": "9., Strudlhofgasse 4",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757721,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757722",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3527759952796,
+                    48.21681908344293
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Campus der Universität Wien",
+                "ADRESSE": "9., Spitalgasse 2",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757722,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.358272166120706,
+                    48.21475880166743
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Fakultät für Sozialwissenschaften",
+                "ADRESSE": "9., Rooseveltplatz 2",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757724,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757725",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.355419491831196,
+                    48.22021297524685
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Sensengasse 8",
+                "ADRESSE": "9., Sensengasse 8",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757725,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757735",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.317051006494363,
+                    48.203847518763936
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Universitätssportzentrum USZ I",
+                "ADRESSE": "15., Auf der Schmelz 6",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757735,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757736",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.317051006494363,
+                    48.203847518763936
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Universitätssportzentrum USZ II",
+                "ADRESSE": "15., Auf der Schmelz 6a",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757736,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.348993464454523,
+                    48.233514892623056
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität Wien",
+                "BEZEICHNUNG": "Universität Wien, Translationswissenschaft",
+                "ADRESSE": "19., Gymnasiumstraße 50",
+                "WEBLINK1": "http://www.univie.ac.at",
+                "SE_SDO_ROWID": 3757738,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757770",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.266105370613484,
+                    48.1840619216924
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Hochschule für Argar und Umweltpädagogik",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "13., Angermayergasse 1",
+                "WEBLINK1": "http://www.agrarumweltpaedagogik.ac.at/",
+                "SE_SDO_ROWID": 3757770,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757771",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34744382089537,
+                    48.219744463821115
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Medizinischer Universitätscampus AKH, Hörsaalzentrum",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "WEBLINK1": "https://www.meduniwien.ac.at/web/",
+                "SE_SDO_ROWID": 3757771,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382291350585213,
+                    48.19658693725587
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "3., Metternichgasse 12",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757301,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38105513617401,
+                    48.196551175221025
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Salesianerkloster",
+                "ADRESSE": "3., Rennweg 8",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757302,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.312109618936947,
+                    48.18677296871609
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Schlosstheater Schönbrunn",
+                "ADRESSE": "13., Schönbrunner Schlossstraße 47",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757303,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.365110385644694,
+                    48.19365879486278
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "4., Rienößlgasse 12",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757304,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.374899309018495,
+                    48.206621058566924
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "1., Singerstraße 26",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757305,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757306",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.374544820149726,
+                    48.2019758974349
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "1., Schubertring 14",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757306,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369520403648075,
+                    48.20105116368063
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "1., Karlsplatz 1",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757307,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369903179832935,
+                    48.20092373470034
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "1., Karlsplatz 2",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757308,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.386802552084067,
+                    48.203005648500685
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "3., Ungargasse 14",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757309,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382948312565823,
+                    48.208393099694135
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Hauptgebäude",
+                "ADRESSE": "1., Oskar Kokoschka-Platz 2",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757310,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37114949716496,
+                    48.213467503055995
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Salzgries",
+                "ADRESSE": "1., Salzgries 14",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757311,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.379108589657978,
+                    48.209099442716706
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Postgasse",
+                "ADRESSE": "1., Postgasse 6",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757312,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38140792185963,
+                    48.211155758614204
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Franz-Josefs-Kai",
+                "ADRESSE": "1., Franz Josefs-Kai 5",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757313,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38415039128824,
+                    48.207300485171196
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Henslerstrasse",
+                "ADRESSE": "3., Henslerstraße 3",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757314,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.371977343420788,
+                    48.21218178507234
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Sterngasse",
+                "ADRESSE": "1., Sterngasse 13",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757315,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.398183778682448,
+                    48.21129687381089
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Rustenschacher Allee",
+                "ADRESSE": "2., Rustenschacherallee 2-4",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757316,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.385006521673198,
+                    48.20974600136189
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Zollamtsstraße",
+                "ADRESSE": "3., Vordere Zollamtsstraße 3",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757317,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.378324431040177,
+                    48.20022904021722
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Am Heumarkt",
+                "ADRESSE": "3., Am Heumarkt 27",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757318,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.379733394072648,
+                    48.20906351337329
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Expositur Dominikanerbastei",
+                "ADRESSE": "1., Dominikanerbastei 5",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757319,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37636295665446,
+                    48.210208850381186
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für angewandte Kunst",
+                "BEZEICHNUNG": "Ausstellungszentrum Heiligenkreuzer Hof",
+                "ADRESSE": "1., Grashofgasse 3",
+                "WEBLINK1": "http://www.dieangewandte.at",
+                "SE_SDO_ROWID": 3757320,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.365236225472685,
+                    48.20163126730758
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Akademie der bildenden Künste Wien",
+                "BEZEICHNUNG": "Hauptgebäude",
+                "ADRESSE": "1., Schillerplatz 3",
+                "WEBLINK1": "http://www.akbild.ac.at/",
+                "SE_SDO_ROWID": 3757321,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.357910337236508,
+                    48.201764972067124
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Akademie der bildenden Künste Wien",
+                "BEZEICHNUNG": "Institutsgebäude",
+                "ADRESSE": "7., Karl Schweighofer-Gasse 3",
+                "WEBLINK1": "http://www.akbild.ac.at/",
+                "SE_SDO_ROWID": 3757322,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.396714962119496,
+                    48.212288034952586
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Akademie der bildenden Künste Wien",
+                "BEZEICHNUNG": "Bildhauerateliers",
+                "ADRESSE": "2., Kurzbauergasse 9",
+                "WEBLINK1": "http://www.akbild.ac.at/",
+                "SE_SDO_ROWID": 3757323,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.351744186870256,
+                    48.219641682379326
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Spitalgasse 23",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757324,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.364192735877257,
+                    48.22760871126445
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Severingasse 9",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757325,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34838195564449,
+                    48.21727575303667
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Lazarettgasse 19",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757326,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757327",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3423079523942,
+                    48.21614337455941
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Kinderspitalgasse 15",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757327,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757381",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34305110981039,
+                    48.19982176152335
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Alpen-Adria-Universität Klagenfurt",
+                "BEZEICHNUNG": "IFF Standort Wien",
+                "ADRESSE": "7., Schottenfeldgasse 29",
+                "WEBLINK1": "http://www.uni-klu.ac.at/iff/inhalt/271.htm",
+                "SE_SDO_ROWID": 3757381,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757393",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.384750383037023,
+                    48.201829266998544
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Hauptgebäude",
+                "ADRESSE": "3., Anton-von-Webern-Platz 1",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757393,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757394",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37697172024323,
+                    48.20047037646506
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "3., Lothringerstraße 18",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757394,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757395",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.313445423823364,
+                    48.18975264315311
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Palais Cumberland",
+                "ADRESSE": "14., Penzingerstraße 7-9",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757395,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757396",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37302983033845,
+                    48.20468897595437
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "St. Ursula",
+                "ADRESSE": "1., Johannesgasse 8",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757396,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40886944704945,
+                    48.21384945797803
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "LC - Hauptgebäude",
+                "ADRESSE": "2., Welthandelsplatz 1 Obj. L C",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757190,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.409912885530776,
+                    48.21275325793419
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "D1 TC",
+                "ADRESSE": "2., Welthandelsplatz 1 Obj. D 1",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757191,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.409848017737964,
+                    48.212210783920874
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "D2 SC",
+                "ADRESSE": "2., Welthandelsplatz 1 Obj. D 2",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757192,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.406422046818466,
+                    48.213968971243915
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "D3",
+                "ADRESSE": "2., Welthandelsplatz 1 Obj. D 3",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757193,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40736382177085,
+                    48.21457525348371
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "D4",
+                "ADRESSE": "2., Welthandelsplatz 1 Obj. D 4",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757194,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.406273421425514,
+                    48.21462579123965
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "AD",
+                "ADRESSE": "2., Welthandelsplatz 1 Obj. A D",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757195,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.406232120923008,
+                    48.215668012505596
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Wirtschaftsuniversität Wien",
+                "BEZEICHNUNG": "EA",
+                "ADRESSE": "2., Welthandelsplatz 1 Obj. E A",
+                "WEBLINK1": "http://www.wu.ac.at",
+                "SE_SDO_ROWID": 3757196,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35813123718371,
+                    48.21811347481168
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Währinger Straße 13a",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757224,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.358188033163614,
+                    48.21499759654387
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Rooseveltplatz 3",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757225,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35714353738559,
+                    48.219213357487696
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Josephinum",
+                "ADRESSE": "9., Währinger Straße 25",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757226,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.360505120890764,
+                    48.216262086375544
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Währinger Straße 10",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757227,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.355531636584228,
+                    48.21854618322279
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Van Swieten-Gasse 1",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757228,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352804507139616,
+                    48.21925538338106
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Medizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "9., Sensengasse 2",
+                "WEBLINK1": "http://www.meduniwien.ac.at",
+                "SE_SDO_ROWID": 3757229,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.337586101145202,
+                    48.23655217639344
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Gregor Mendel Haus (Hauptgebäude)",
+                "ADRESSE": "18., Gregor Mendel Straße 33",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757230,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33501570050312,
+                    48.236171651963225
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Adolf von Guttenberg Haus",
+                "ADRESSE": "18., Feistmantelstraße 4",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757231,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.335014876719885,
+                    48.23691134063817
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Oskar Simony Haus",
+                "ADRESSE": "18., Peter Jordan Straße 65",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757232,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33605212084039,
+                    48.23691191259095
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Forschungsglashaus",
+                "ADRESSE": "18., Peter Jordan Straße 63",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757233,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.335934058187735,
+                    48.23723903917748
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Adolf Cieslar Haus",
+                "ADRESSE": "19., Peter Jordan Straße 70",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757234,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.331682731958992,
+                    48.2373738509467
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Wilhelm Exner Haus",
+                "ADRESSE": "19., Peter Jordan Straße 82",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757235,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.331682731958992,
+                    48.2373738509467
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Franz Schwackhöfer Haus",
+                "ADRESSE": "19., Peter Jordan Straße 82",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757236,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.335032639541982,
+                    48.23723706460136
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "TÜWI (ehemaliges Gasthaus Türkenwirt)",
+                "ADRESSE": "19., Peter Jordan Straße 76",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757237,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33123075948,
+                    48.23649137729138
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Außenanmietung (ehemalige Villa der Sängerin Maria Jeritza)",
+                "ADRESSE": "18., Max Emanuel Straße 17",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757238,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757239",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.339964488698755,
+                    48.23401267320132
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "19., Hasenauerstraße 38",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757239,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.523160950343414,
+                    48.212101850610615
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Außenstelle Essling",
+                "ADRESSE": "22., Schlachthammerstraße 86",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757240,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.424921826510566,
+                    48.2854546200595
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Außenstelle Jedlersdorf",
+                "ADRESSE": "21., Gerasdorfer Straße 103",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757241,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24147007932274,
+                    48.21890792501378
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Außenstelle Knödelhütte",
+                "ADRESSE": "14., Knödelhüttenstraße 37",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757242,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368499189598378,
+                    48.24668405343259
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Emil Perels Haus (Muthgasse I)",
+                "ADRESSE": "19., Nussdorfer Lände 11",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757243,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36758874863721,
+                    48.246952976758706
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Armin Szilvinyi Haus (Muthgasse II)",
+                "ADRESSE": "19., Muthgasse 18",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757244,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.366199244674625,
+                    48.2470252937873
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "VIBT (Muthgasse III)",
+                "ADRESSE": "19., Muthgasse 11",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757245,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757246",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.369645684405114,
+                    48.252645341322705
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Bodenkultur Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "19., Muthgasse 107",
+                "WEBLINK1": "http://www.boku.ac.at",
+                "SE_SDO_ROWID": 3757246,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43172828792193,
+                    48.254460260877465
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Veterinärmedizinische Universität Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "21., Veterinärplatz 1",
+                "WEBLINK1": "http://www.vu-wien.ac.at",
+                "SE_SDO_ROWID": 3757247,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.283304142945543,
+                    48.2198835402063
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Veterinärmedizinische Universität Wien",
+                "BEZEICHNUNG": "Forschungsinstitut für Wildtierkunde und Ökologie",
+                "ADRESSE": "16., Savoyenstraße 1",
+                "WEBLINK1": "http://www.fiwi.at",
+                "SE_SDO_ROWID": 3757248,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38232184849205,
+                    48.196994993183495
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Universität für Musik und darstellende Kunst Wien",
+                "BEZEICHNUNG": "Palais Springer",
+                "ADRESSE": "3., Metternichgasse 8",
+                "WEBLINK1": "http://www.mdw.ac.at",
+                "SE_SDO_ROWID": 3757300,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.405066832609034,
+                    48.21527325871941
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Sigmund Freud Privat Universität Wien Paris",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "2., Freudplatz 1, Campus Prater",
+                "WEBLINK1": "http://www.sfu.ac.at",
+                "SE_SDO_ROWID": 3757651,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757382",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37223795182187,
+                    48.20487386728762
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "MUK Musik und Kunst Privatuniversität der Stadt Wien",
+                "BEZEICHNUNG": "Hauptstandort",
+                "ADRESSE": "1., Johannesgasse 4a",
+                "WEBLINK1": "http://www.muk.ac.at/",
+                "SE_SDO_ROWID": 3757382,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757383",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36892903198921,
+                    48.2077993380517
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "MUK Musik und Kunst Privatuniversität der Stadt Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "1., Bräunerstraße 5",
+                "WEBLINK1": "http://www.muk.ac.at/",
+                "SE_SDO_ROWID": 3757383,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757384",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.374899309018495,
+                    48.206621058566924
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Konservatorium Wien Privatuniversität",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "1., Singerstraße 26",
+                "WEBLINK1": "http://www.konservatorium-wien.ac.at",
+                "SE_SDO_ROWID": 3757384,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757385",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.423927464758087,
+                    48.22343553973616
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Webster University Vienna",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "22., Berchtoldgasse 1",
+                "WEBLINK1": "http://www.webster.ac.at",
+                "SE_SDO_ROWID": 3757385,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757386",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.336320424043365,
+                    48.2747438259604
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Vienna MODUL University Vienna",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "19., Am Kahlenberg 1",
+                "WEBLINK1": "http://www.modul.ac.at",
+                "SE_SDO_ROWID": 3757386,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757551",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.379444477735966,
+                    48.22815444049609
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Religionspädagogische Akademie",
+                "BEZEICHNUNG": "Rabbiner-Schneerson-Platz 1",
+                "ADRESSE": "2., Rabbiner-Schneerson-Platz 1",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757551,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.335930708162614,
+                    48.19878726202339
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Pädagogische Akademie",
+                "BEZEICHNUNG": "Pelzgasse 9",
+                "ADRESSE": "15., Pelzgasse 9",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757181,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757182",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.378437466809583,
+                    48.21546532210628
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Religionspädagogische Akademie",
+                "BEZEICHNUNG": "Lilienbrunngasse 19",
+                "ADRESSE": "2., Lilienbrunngasse 19",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757182,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.404312820704945,
+                    48.257024116788365
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Akademie für Sozialarbeit der Stadt Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "21., Freytaggasse 32",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757183,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38008184696468,
+                    48.29413982129205
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Kirchlich Pädagogische Hochschule in Wien-Strebersdorf",
+                "BEZEICHNUNG": "Mayerweckstraße 1",
+                "ADRESSE": "21., Mayerweckstraße 1",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757184,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33143261702944,
+                    48.23137621804982
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Kirchlich Pädagogische Hochschule in Wien-Gersthof",
+                "BEZEICHNUNG": "Severin-Schreiber-Gasse 1",
+                "ADRESSE": "18., Severin-Schreiber-Gasse 1",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757185,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.372909379932334,
+                    48.2080136471994
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Religionspädagogische Akademie",
+                "BEZEICHNUNG": "Stephansplatz 3",
+                "ADRESSE": "1., Stephansplatz 3",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757186,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.374156129445602,
+                    48.16482979297027
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Pädagogische Hochschule Wien",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "10., Grenzackerstraße 18",
+                "WEBLINK1": "http://www.phwien.ac.at",
+                "SE_SDO_ROWID": 3757187,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.377211960563397,
+                    48.20885782276956
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Österreichische Akademie der Wissenschaften",
+                "BEZEICHNUNG": "Gebäude",
+                "ADRESSE": "1., Dr.-Ignaz-Seipel-Platz 2",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757188,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "UNIVERSITAETOGD.3757189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37412612211512,
+                    48.166792497770324
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "NAME": "Pädagogische Akademie des Bundes in Wien",
+                "BEZEICHNUNG": "Ettenreichgasse 45a",
+                "ADRESSE": "10., Ettenreichgasse 45A",
+                "WEBLINK1": null,
+                "SE_SDO_ROWID": 3757189,
+                "SE_ANNO_CAD_DATA": null
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+body {
+    background-color: #E6E8E6;
+}
+
+.container {
+    background-color: #9FB8AD;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+h1, h3, h4 {
+    color: #3F403F;
+}
+
+label, p {
+    color: #475841;
+}
+
+.alert-info {
+    background-color: #CED0CE;
+    border-color: #3F403F;
+}
+
+.btn-primary {
+    background-color: #475841;
+    border: none;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #3F403F;
+    border: none;
+}
+
+.btn-info {
+    background-color: #3F403F;
+    border: none;
+}
+
+.btn-info:hover, .btn-info:focus {
+    background-color: #475841;
+    border: none;
+}

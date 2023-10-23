@@ -1,0 +1,612 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 30,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3110091",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.390836908808225,
+                    48.1963547062769
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Landstraße (früher: Krankenanstalt Rudolfstiftung), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "3., Juchgasse 25",
+                "BEZIRK": 3,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3110091,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Universitätsklinikum AKH Wien, Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109886,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3110190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.282389213256295,
+                    48.1606698755503
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Hietzing (früher: Krankenhaus Hietzing mit Neurologischem Zentrum Rosenhügel), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "13., Riedelgasse 5",
+                "BEZIRK": 13,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3110190,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3110191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27649056826156,
+                    48.17019985142198
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Hietzing (früher: Krankenhaus Hietzing mit Neurologischem Zentrum Rosenhügel), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "13., Wolkersbergenstraße 1",
+                "BEZIRK": 13,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3110191,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109994",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.278573129785443,
+                    48.20742397959802
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Penzing (früher: Sozialmedizinisches Zentrum - Baumgartner Höhe / Otto Wagner Spital), Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "14., Baumgartner Höhe 1",
+                "BEZIRK": 14,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109994,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.304187901806973,
+                    48.210779427460054
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Ottakring (früher: Wilhelminenspital), Krankenhaus der Stadt Wien, Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "16., Montleartstraße 37(WILHELMINENSPITAL)",
+                "BEZIRK": 16,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109107,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.464216622278514,
+                    48.21901325103391
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Donaustadt (früher: Donauspital), Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "22., Langobardenstraße 122",
+                "BEZIRK": 22,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109555,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109470",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35167572821051,
+                    48.22643998175587
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Hera, Sanatorium der Krankenfürsorgeanstalt der Bediensteten der Stadt Wien",
+                "ADRESSE": "9., Löblichgasse 14",
+                "BEZIRK": 9,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109470,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3110052",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344036121765555,
+                    48.172958002283586
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Traumazentrum Wien - Standort Meidling, AUVA ehemaliges Unfallkrankenhaus Meidling",
+                "ADRESSE": "12., Kundratstraße 37-39",
+                "BEZIRK": 12,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3110052,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34519230076337,
+                    48.17233738095142
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Rehabilitationszentrum Meidling, AUVA",
+                "ADRESSE": "12., Köglergasse 2A",
+                "BEZIRK": 12,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109922,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.293702701084857,
+                    48.19893195790312
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Mein Hanusch Krankenhaus, Österreichische Gesundheitskasse ÖGK",
+                "ADRESSE": "14., Heinrich-Collin-Straße 30",
+                "BEZIRK": 14,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109567,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3110054",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.383839222039605,
+                    48.23658443877952
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Traumazentrum Wien - Standort Brigittenau Lorenz Böhler. ehemaliges Unfallkrankenhaus Lorenz Böhler",
+                "ADRESSE": "20., Donaueschingenstraße 13",
+                "BEZIRK": 20,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3110054,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.418917763340993,
+                    48.293041400915676
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Sanitätszentrum Ost, Bundesministerium für Landesverteidigung",
+                "ADRESSE": "21., Brünner Straße 238",
+                "BEZIRK": 21,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109303,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109757",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.349898422222118,
+                    48.1736589252036
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Favoriten (früher: Kaiser-Franz-Josef-Spital), Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3109757,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3108887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.404868386295085,
+                    48.268004853714444
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Klinik Floridsdorf (früher: Krankenhaus Nord), Wiener Gesundheitsverbund (vormals Wiener Krankenanstaltenverbund)",
+                "ADRESSE": "21., Brünner Straße 68",
+                "BEZIRK": 21,
+                "LANGTEXT": "Krankenhäuser öffentlich",
+                "SE_SDO_ROWID": 3108887,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109683",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382218572070666,
+                    48.21577485374937
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Krankenhaus der Barmherzigen Brüder Wien, Konvent der Barmherzigen Brüder Wien",
+                "ADRESSE": "2., Johannes-von-Gott-Platz 1",
+                "BEZIRK": 2,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109683,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109811",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3983687471196,
+                    48.19560443667611
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Herz Jesu Krankenhaus GmbH, Vinzenz Gruppe Krankenhausbeteiligungs- und Management GmbH",
+                "ADRESSE": "3., Baumgasse 20A",
+                "BEZIRK": 3,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109811,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38659507711106,
+                    48.20530491208094
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Franziskus Spital Landstraße GmbH (früher Krankenhaus St. Elisabeth GmbH)",
+                "ADRESSE": "3., Landstraßer Hauptstraße 4A",
+                "BEZIRK": 3,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109853,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109457",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.362719634748764,
+                    48.188648443452074
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Franziskus Spital Margareten GmbH (früher: Hartmannspital GmbH)",
+                "ADRESSE": "5., Nikolsdorfer Gasse 32",
+                "BEZIRK": 5,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109457,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3110211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.345962509105888,
+                    48.19242826166992
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Barmherzige Schwestern Krankenhaus Wien,  Betriebsgesellschaft mbH Fachklinik für den Verdauungstrakt, Vinzenz Gruppe Krankenhausbeteiligungs- und Management GmbH",
+                "ADRESSE": "6., Stumpergasse 13",
+                "BEZIRK": 6,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3110211,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.348375408628986,
+                    48.21465029464401
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Privatklinik Confraternität – PremiQaMed Privatkliniken GmbH",
+                "ADRESSE": "8., Skodagasse 32",
+                "BEZIRK": 8,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109221,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109343",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.347030410776824,
+                    48.21754624284893
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Goldenes Kreuz Privatklinik BetriebsGmbH",
+                "ADRESSE": "9., Lazarettgasse 16-18",
+                "BEZIRK": 9,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109343,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109710",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.347999206612453,
+                    48.217114473056775
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Wiener Privatklinik Betriebs-Ges.m.b.H. & Co.KG",
+                "ADRESSE": "9., Pelikangasse 15",
+                "BEZIRK": 9,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109710,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109426",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34433877676733,
+                    48.21593668253303
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "St.Anna Kinderspital GmbH",
+                "ADRESSE": "9., Kinderspitalgasse 6",
+                "BEZIRK": 9,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109426,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28135062700276,
+                    48.16400589684008
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Orthopädisches Spital Speising GmbH, Vinzenz Gruppe Krankenhausbeteiligungs- und Management GmbH",
+                "ADRESSE": "13., Speisinger Straße 109",
+                "BEZIRK": 13,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109164,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26294443388604,
+                    48.194383898952765
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "St. Josef Krankenhaus GmbH, Vinzenz Gruppe Krankenhausbeteiligungs- und Management GmbH",
+                "ADRESSE": "13., Auhofstraße 189",
+                "BEZIRK": 13,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109156,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109644",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34571286466111,
+                    48.22412938268539
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Evangelisches Krankenhaus Wien Gemeinnützige Betriebsgesellschaft m.b.H",
+                "ADRESSE": "18., Hans-Sachs-Gasse 10-12",
+                "BEZIRK": 18,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109644,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109971",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35935349404799,
+                    48.23973060873688
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Privatklinik Döbling, PremiQaMed Privatkliniken GmbH – Privatklinik Döbling",
+                "ADRESSE": "19., Heiligenstädter Straße 55-63",
+                "BEZIRK": 19,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109971,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3109459",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.301143058895775,
+                    48.21663312193968
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Sanatorium Liebhartstal,  Formanek GmbH",
+                "ADRESSE": "16., Kollburggasse 6-10",
+                "BEZIRK": 16,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3109459,
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "KRANKENHAUSOGD.3102101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.304204306610895,
+                    48.22767766033086
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "BEZEICHNUNG": "Krankenhaus Göttlicher Heiland GmbH, Vinzenz Gruppe Krankenhausbeteiligungs- und Management GmbH",
+                "ADRESSE": "17., Dornbacher Straße 20-30",
+                "BEZIRK": 17,
+                "LANGTEXT": "Krankenhäuser konfessionell, privat und/oder gemeinnützig",
+                "SE_SDO_ROWID": 3102101,
+                "SE_ANNO_CAD_DATA": null
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}
