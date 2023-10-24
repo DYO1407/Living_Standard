@@ -11,10 +11,10 @@
 
 <body>
     <div class="container mt-4">
-        <h1 class="text-center mb-5">Distance Calculator</h1>
+        <h1 class="text-center mb-5">Living Quality Calculator</h1>
 
         <div class="row mb-4">
-            <div class="col-md-6">
+            <div class="col-md-7">
                 <div class="form-group">
                     <label for="userAddress">Enter your address:</label>
                     <input type="text" id="userAddress" class="form-control" placeholder="Enter your address" />
@@ -33,60 +33,72 @@
                 <button class="btn btn-info" onclick="calculateLivingQuality()">
                     Determine Living Quality
                 </button>
-            </div>
+                <div class="form-group mt-2">
+                    <label for="addressTypeDropdown">Select Address Type:</label>
+                    <select id="addressTypeDropdown" class="form-control" onchange="showTabContent(this.value)">
+                        <option value="">-- Select --</option>
+                        <option value="hospitals">Hospitals</option>
+                        <option value="universities">Universities</option>
+                        <option value="police">Police Stations</option>
+                        <option value="schools">Schools</option>
+                        <option value="parks">Green Areas</option>
+                    </select>
+                </div>
 
-            <div class="col-md-6">
+                
+                <div id="hospitals" class="tab-content d-none">
+                    Content for Hospitals
+                </div>
+                <div id="universities" class="tab-content d-none">
+                    Content for Universities
+                </div>
+                <div id="police" class="tab-content d-none">
+                    Content for Police Stations
+                </div>
+                <div id="schools" class="tab-content d-none">
+                    Content for Schools
+                </div>
+                <div id="parks" class="tab-content d-none">
+                    Content for Parks
+                </div>
+            </div>
+                
+            <div class="col-md-5">
                 <h3>Living Quality Result:</h3>
                 <div class="alert alert-info" role="alert" id="livingQualityResult">
                     Result will appear here after calculation.
                 </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-3">
-                <label for="addressTypeDropdown">Select Address Type:</label>
-                <select id="addressTypeDropdown" class="form-control" onchange="showTabContent(this.value)">
-                    <option value="">-- Select --</option>
-                    <option value="hospitals">Hospitals</option>
-                    <option value="universities">Universities</option>
-                    <option value="police">Police Stations</option>
-                    <option value="schools">Schools</option>
-                    <option value="parks">Green Areas</option>
-                </select>
-            </div>
-
-            <div class="col-md-9">
-                <div id="hospitals" class="tab-content d-none">
-                    <!-- Hospitals content here -->
-                    Content for Hospitals
-                </div>
-                <div id="universities" class="tab-content d-none">
-                    <!-- Universities content here -->
-                    Content for Universities
-                </div>
-                <div id="police" class="tab-content d-none">
-                    <!-- Police Stations content here -->
-                    Content for Police Stations
-                </div>
-                <div id="schools" class="tab-content d-none">
-                    <!-- Schools content here -->
-                    Content for Schools
-                </div>
-
-                <div id="parks" class="tab-content d-none">
-                    <!-- Schools content here -->
-                    Content for Parks
+                
+                <h3>Explanation:</h3>
+                <div class="alert alert-info" role="alert" id="Explanation">
+                    <p>Our <strong>Living Quality Algorithm</strong> evaluates the environment based on several key parameters: hospitals, universities, police stations, schools, and parks. Each user type — whether you're a student, part of a family, or a pensionist — is assigned different weights to these parameters to reflect varying priorities.</p>
+                
+                    <strong>Weights:</strong>
+                    <ul>
+                        <li><strong>Students:</strong> Hospitals (0.6), Universities (0.8), Police Stations (0.4), Schools (0.3), Parks (0.6)</li>
+                        <li><strong>Families:</strong> Hospitals (0.8), Universities (0.5), Police Stations (0.6), Schools (0.7), Parks (0.7)</li>
+                        <li><strong>Pensionists:</strong> Hospitals (0.7), Universities (0.1), Police Stations (0.6), Schools (0.4), Parks (0.8)</li>
+                    </ul>
+                
+                    <p>The score is a weighted sum of the factors, normalized to a maximum of 3.</p>
+                    <strong>Ratings:</strong>
+                    <ul>
+                        <li> >= 3: <span class="text-success">Excellent!</span></li>
+                        <li> >= 2: <span class="text-warning">Good.</span></li>
+                        <li> >= 1.5: <span class="text-primary">Average.</span></li>
+                        <li> < 1.5: <span class="text-danger">Below Average.</span></li>
+                    </ul>
                 </div>
             </div>
         </div>
+
+        
     </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="script.js"></script>
 
-    <!-- JavaScript to handle dropdown change event and display appropriate content -->
     <script>
         function showTabContent(value) {
             document.querySelectorAll('.tab-content').forEach(el => {

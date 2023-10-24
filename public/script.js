@@ -176,7 +176,7 @@ function calculateDistances() {
       unisCoordinates,
       StationCoordinates,
       SchoolsCoordinates,
-      ParksCoordinates
+      ParksCoordinates,
     }),
   })
     .then((response) => response.json())
@@ -241,44 +241,43 @@ function getCoordinates() {
 }
 
 function calculateScore(userType, data) {
-    const weights = {
-      student: {
-        hospital: 0.6,
-        university: 0.8,
-        Police_Station: 0.4,
-        school: 0.3,
-        park: 0.6
-      },
-      family: {
-        hospital: 0.8,
-        university: 0.5,
-        Police_Station: 0.6,
-        school: 0.7,
-        park: 0.7
-      },
-      pensionist: {
-        hospital: 0.7,
-        university: 0.1,
-        Police_Station: 0.6,
-        school: 0.4,
-        park: 0.8
-      },
-    };
+  const weights = {
+    student: {
+      hospital: 0.6,
+      university: 0.8,
+      Police_Station: 0.4,
+      school: 0.3,
+      park: 0.6,
+    },
+    family: {
+      hospital: 0.8,
+      university: 0.5,
+      Police_Station: 0.6,
+      school: 0.7,
+      park: 0.7,
+    },
+    pensionist: {
+      hospital: 0.7,
+      university: 0.1,
+      Police_Station: 0.6,
+      school: 0.4,
+      park: 0.8,
+    },
+  };
+
+  let score =
+    weights[userType].hospital * data.counterOfHospitals +
+    weights[userType].university * data.counterOfUnis +
+    weights[userType].Police_Station * data.counterOfStations +
+    weights[userType].school * data.counterOfSchools +
+    weights[userType].park * data.counterOfParks;
+
   
-    let score = (
-      weights[userType].hospital * data.counterOfHospitals +
-      weights[userType].university * data.counterOfUnis +
-      weights[userType].Police_Station * data.counterOfStations +
-      weights[userType].school * data.counterOfSchools +
-      weights[userType].park * data.counterOfParks
-    );
-  
-    // Normalize the score to ensure it's always below or equal to 6
-    const maxPossibleScore = 10 * 5; // considering max weight is 1
-    score = (score / maxPossibleScore);
-  
-    return score;
-  }
+  const maxPossibleScore = 10 * 5; 
+  score = score / maxPossibleScore;
+
+  return score;
+}
 
 function generateQualityMessage(score) {
   if (score >= 3) {
@@ -292,6 +291,8 @@ function generateQualityMessage(score) {
   }
 }
 
+
+
 function calculateLivingQuality() {
   const { userAddress, userType } = getUserInput();
   const {
@@ -299,7 +300,7 @@ function calculateLivingQuality() {
     unisCoordinates,
     StationCoordinates,
     SchoolsCoordinates,
-    ParksCoordinates
+    ParksCoordinates,
   } = getCoordinates();
 
   fetch("/calculateDistances", {
@@ -313,7 +314,7 @@ function calculateLivingQuality() {
       unisCoordinates,
       StationCoordinates,
       SchoolsCoordinates,
-      ParksCoordinates
+      ParksCoordinates,
     }),
   })
     .then((response) => {
@@ -403,17 +404,17 @@ function displayHospitalDistances(distances) {
 
   // Clear the list before appending new distances
   distanceList.innerHTML = "";
+  let counter = 1;
 
   distances.forEach(({ index, distance }) => {
-    const listItem = document.createElement("li");
+    const listItem = document.createElement("ul");
 
     // Retrieve the appropriate address for hospitals
     const actualAddress = Array.from(hospitalFeaturesMap.keys())[index];
 
-    listItem.textContent = `${
-      index + 1
-    }. Distance to Hospital: ${actualAddress} - ${distance.toFixed(2)} KM`;
+    listItem.textContent = `${counter}) Distance to Hospital: ${actualAddress} -> ${distance.toFixed(2)} KM`;
     distanceList.appendChild(listItem);
+    counter++;
   });
 }
 
@@ -422,17 +423,16 @@ function displayUniDistances(distances) {
 
   // Clear the list before appending new distances
   distanceList.innerHTML = "";
-
+  let counter = 1;
   distances.forEach(({ index, distance }) => {
-    const listItem = document.createElement("li");
+    const listItem = document.createElement("ul");
 
     // Retrieve the appropriate address for universities
     const actualAddress = Array.from(unisFeaturesMap.keys())[index];
 
-    listItem.textContent = `${
-      index + 1
-    }. Distance to University: ${actualAddress} - ${distance.toFixed(2)} KM`;
+    listItem.textContent = `${counter}) Distance to University: ${actualAddress} - ${distance.toFixed(2)} KM`;
     distanceList.appendChild(listItem);
+    counter++;
   });
 }
 
@@ -441,60 +441,58 @@ function displaySchoolsDistances(distances) {
 
   // Clear the list before appending new distances
   distanceList.innerHTML = "";
+  let counter = 1;
 
   distances.forEach(({ index, distance }) => {
-    const listItem = document.createElement("li");
+    const listItem = document.createElement("ul");
 
-    // Retrieve the appropriate address for universities
+    
     const actualAddress = Array.from(SchoolsFeaturesMap.keys())[index];
 
-    listItem.textContent = `${
-      index + 1
-    }. Distance to school: ${actualAddress} - ${distance.toFixed(2)} KM`;
+    listItem.textContent = `${counter}) Distance to school: ${actualAddress} - ${distance.toFixed(2)} KM`;
     distanceList.appendChild(listItem);
+    counter++;
   });
 }
 
-
 function displayParksDistances(distances) {
-    const distanceList = document.getElementById("parks");
-  
-    // Clear the list before appending new distances
-    distanceList.innerHTML = "";
-  
-    distances.forEach(({ index, distance }) => {
-      const listItem = document.createElement("li");
-  
-      // Retrieve the appropriate address for universities
-      const actualAddress = Array.from(ParksFeaturesMap.keys())[index];
-  
-      listItem.textContent = `${
-        index + 1
-      }. Distance to Park: ${actualAddress} - ${distance.toFixed(2)} KM`;
-      distanceList.appendChild(listItem);
-    });
-  }
-
-function displayPoliceStationsDistances(distances) {
-  const distanceList = document.getElementById("police");
+  const distanceList = document.getElementById("parks");
 
   // Clear the list before appending new distances
   distanceList.innerHTML = "";
 
+  let counter = 1;
   distances.forEach(({ index, distance }) => {
-    const listItem = document.createElement("li");
+    const listItem = document.createElement("ul");
 
-    // Retrieve the appropriate address for universities
+   
+    const actualAddress = Array.from(ParksFeaturesMap.keys())[index];
+
+    listItem.textContent = `${counter}) Distance to Park: ${actualAddress} - ${distance.toFixed(2)} KM`;
+    distanceList.appendChild(listItem);
+    counter++;
+  });
+}
+
+function displayPoliceStationsDistances(distances) {
+  const distanceList = document.getElementById("police");
+  distanceList.innerHTML = "";
+
+  let counter = 1;
+
+  distances.forEach(({ index, distance }) => {
+    const listItem = document.createElement("ul");
     const actualAddress = Array.from(police_StationsFeaturesMap.keys())[index];
 
-    listItem.textContent = `${
-      index + 1
-    }. Distance to Police Station: ${actualAddress} - ${distance.toFixed(
+    listItem.textContent = `${counter}) Distance to Police Station: ${actualAddress} - ${distance.toFixed(
       2
     )} KM`;
     distanceList.appendChild(listItem);
+
+    counter++;
   });
 }
+
 document.addEventListener("DOMContentLoaded", function () {
   console.log("DOM fully loaded and parsed");
   handleFile();
